@@ -1,2 +1,2 @@
-# yyyoink-postprocess
-service:Compression, Binary, and LLM Toolkit Postprocess
+# craft-postprocess
+service:LLM Postprocess
